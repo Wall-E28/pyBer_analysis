@@ -25,22 +25,25 @@ The overview of the city types consists of a bubble chart highlighting the compa
 Rides per city type is broken up into two different categories: rides per city by city type and total rides per city type.
 
 ![ride_count_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig2.png)
-![total_ride_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig5.png)
+![total_ride_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig6.png)
 
 ### Drivers per City Type
 
 Drivers per city type is broken up into two different categories: drivers per city by city type and total drivers per city type.
 
 ![driver_count_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig4.png)
-![total_driver_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig6.png)
+![total_driver_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig7.png)
 
 ### Fares per City Type
 
 Fares per city tpes is broken up into three different categories: average fares per city by city type, total fares per city type, and weekly totals per city type.
 
 ![avg_fare_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig3.png)
-![total_fare_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig7.png)
+![total_fare_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/Fig5.png)
 ![weekly_fare_data](https://github.com/Wall-E28/pyBer_analysis/blob/master/analysis/PyBer_fare_summary.png)
 
 ## Summary
 
+Based on the results listed above, I have come up with three different recommendations to address the disparities among the city types.
+
+1. 

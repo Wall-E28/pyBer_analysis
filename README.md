@@ -46,4 +46,8 @@ Fares per city tpes is broken up into three different categories: average fares 
 
 Based on the results listed above, I have come up with three different recommendations to address the disparities among the city types.
 
-1. 
+1. Since rural city types make up 5.3% of rides (Fig6) and 6.8% of fares (Fig5), but only have 2.6% of drivers (Fig7). We should attract more drivers by showing that on average they can make more per ride compared to the other city types (Fig3).
+
+2. Similar to rural, suburban city types make up 26.3% of rides (Fig6) and 30.5% of fares, but only have 16.5% of drivers (Fig7). We should attract more drivers by showing they have the most consistent fares compared to the other city types (Fig3).
+
+3. Oppisite to rural and suburban city types, urban city types only have 68.4% of rides (Fig6) and 62.7% of fares, but have 80.9% of drivers. We should attract more riders by showing that on average their fares are the lowest of any city type (Fig3).
